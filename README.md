@@ -26,5 +26,5 @@ I often use these backend frameworks:
 
 # Social Media
 You can find me on:
-- (LinkedIn)[https://www.linkedin.com/in/andyli0217/]
-- (Instagram)[https://www.instagram.com/andyli_lfs898]
+- [LinkedIn](https://www.linkedin.com/in/andyli0217/)
+- [Instagram](https://www.instagram.com/andyli_lfs898)
