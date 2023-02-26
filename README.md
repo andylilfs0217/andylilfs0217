@@ -19,6 +19,7 @@ I usually use these frontend frameworks:
 - Flutter (for mobile)
 - VueJs
 - AngularJs
+- ReactJs
 
 
 I often use these backend frameworks:  
